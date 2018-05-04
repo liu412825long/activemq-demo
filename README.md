@@ -1,2 +1,2 @@
 # activemq-demo
-ActiveMQÑ§Ï°µÄÐ¡Demo
+this is ActiveMQ Demo
